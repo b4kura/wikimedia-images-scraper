@@ -6,6 +6,7 @@
 
 <h3>Usage example:</h3>
 <code>node scraper.js angry-cats,happy-cats,cats-sleeping 10 my_cat_images_folder</code>
+<a href="https://ibb.co/FH0p7S5"><img src="https://i.ibb.co/WVPCKbk/wikimediascraper.png" alt="wikimediascraper" border="0"></a>
 
 <h2>Info</h2>
 <p>The directory name argument is optional. If you don't specify it, the images will be downloaded directly into the /images folder. If you do specify it, a new directory with the given name will be created inside the /images folder. (You can change that by modifying the property "localPathName" of the scraper object to a different path). Have fun!</p>
