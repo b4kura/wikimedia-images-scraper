@@ -1,5 +1,5 @@
 <h1 align="center">wiki-media-scraper</h1>
-<p align="center">A command-line wikimedia image scraper made with Node.js<p>
+<p align="center">A command-line wikimedia images scraper made with Node.js<p>
 
 <h2>Usage:</h2>
 <code>node scraper.js &lt;keyword1&gt;,&ltkeyword-2&gt; &ltnumberOfImagesPerKeyword&gt; &lt;newDirectoryName&gt;</code>
