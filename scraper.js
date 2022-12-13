@@ -119,8 +119,6 @@ function main() {
 
 		}
 
-	// last object item
-
 	}
 
 	//end of object
@@ -145,15 +143,13 @@ function main() {
 		showBanner: function() {
 			figlet('WIKIMEDIASCRAPER', (err, res) => {
 				if (err) {
-					console.log('erro');
+					console.log('oops, found an error :/');
 					console.log(err);
 					return;
 				}
 				console.log(chalk.green(res));
 			});
 		}
-
-		//last object item
 
 	}
 
